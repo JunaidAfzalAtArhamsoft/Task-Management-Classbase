@@ -7,7 +7,7 @@ open terminal and type
 pip3 install django
 
 ## Clone Project by:
-git clone https://github.com/JunaidAfzalAtArhamsoft/Task-Management-Classbase.git
+git clone https://github.com/imJunaidAfzal/Task-Management-Classbase.git
 
 
 ## Using ManageTask
